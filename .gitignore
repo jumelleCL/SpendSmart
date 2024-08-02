@@ -1,0 +1,50 @@
+## Archivos de Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de compilación
+*.obj
+*.exe
+*.pdb
+*.dll
+*.nupkg
+*.log
+*.cache
+*.map
+*.aps
+*.iobj
+*.ipdb
+*.opendb
+*.tlog
+
+## Carpetas de publicación
+bin/
+obj/
+
+## Paquetes NuGet
+*.nupkg
+# Si estás utilizando paquetes locales
+!packages/
+
+## Archivos de configuración de la publicación
+.publish.xml
+
+## Archivos de configuración de la aplicación
+appsettings.json
+appsettings.*.json
+
+## Archivos de usuario de ASP.NET
+**/Properties/launchSettings.json
+
+## Carpetas y archivos generados por las herramientas de test
+TestResults/
+*.trx
+*.coverage
+
+## Archivos generados por Resharper
+_ReSharper*/
+*.[rR]e[ss]harper

@@ -29,3 +29,8 @@ C:\Users\Camilo\Desktop\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.pdb
 C:\Users\Camilo\Desktop\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.genruntimeconfig.cache
 C:\Users\Camilo\Desktop\SpendSmart\SpendSmart\obj\Debug\net8.0\ref\SpendSmart.dll
 C:\Users\Camilo\Desktop\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.AssemblyReference.cache
+c:\Users\Camilo\Desktop\SpendSmart\SpendSmart\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Camilo\Desktop\SpendSmart\SpendSmart\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Camilo\Desktop\SpendSmart\SpendSmart\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\Users\Camilo\Desktop\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.sourcelink.json
+c:\Users\Camilo\Desktop\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.Up2Date

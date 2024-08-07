@@ -12,6 +12,7 @@
                 <th>ID</th>
                 <th>Value</th>
                 <th>Description</th>
+                <th>Actions</th>
             </tr>
         </thead>
         <tbody>
@@ -22,10 +23,13 @@
                         <th>@expense.Id</th>
                         <th>@expense.Value</th>
                         <th>@expense.Description</th>
+<                       <th>
+                            <a asp-action="CreateEditExpenseForm" asp-route-id="@expense.Id">Edit</a>
+                            <a asp-action="DeleteExpense" asp-route-id="@expense.Id">Delete</a>
+                        </th>
                     </tr>
                 }
             }
         </tbody>
-    using Microsoft.VisualBasic;
     </table>
 </div>

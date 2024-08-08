@@ -49,7 +49,14 @@ namespace SpendSmart.Controllers
 
         public IActionResult CreateEditExpenseForm(Expense model)
         {
-            _context.Expenses.Add(model);
+            if (model.Id == 0)
+            {
+                _context.Expenses.Add(model);
+            }else
+            {
+                _context.Expenses.Update(model);
+            }
+                
 
             _context.SaveChanges();
 

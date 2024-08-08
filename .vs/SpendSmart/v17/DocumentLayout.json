@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Camilo\\Desktop\\SpendSmart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|c:\\users\\camilo\\desktop\\spendsmart\\spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|c:\\users\\camilo\\desktop\\spendsmart\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|c:\\users\\camilo\\desktop\\spendsmart\\spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|c:\\users\\camilo\\desktop\\spendsmart\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|c:\\users\\camilo\\desktop\\spendsmart\\spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41096448-C8CC-490B-A339-03C20705696D}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Expenses.cshtml",
               "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Expenses.cshtml",
               "ToolTip": "C:\\Users\\Camilo\\Desktop\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
               "RelativeToolTip": "SpendSmart\\Views\\Home\\Expenses.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAABDAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T17:38:13.24Z",
               "IsPinned": true,
@@ -44,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CreateEditExpense.cshtml",
               "DocumentMoniker": "C:\\Users\\Camilo\\Desktop\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
               "ToolTip": "C:\\Users\\Camilo\\Desktop\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeToolTip": "SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T17:43:49.005Z",
               "EditorCaption": ""
@@ -63,7 +63,7 @@
               "RelativeDocumentMoniker": "SpendSmart\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Camilo\\Desktop\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SpendSmart\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAUwDgAAAAwAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T17:33:14.383Z",
               "EditorCaption": ""
